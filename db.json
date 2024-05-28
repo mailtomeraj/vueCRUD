@@ -1,0 +1,28 @@
+{
+  "wonders": [
+    {
+      "id": "1",
+      "name": "Christ the Redeemer",
+      "location": "Brazil",
+      "imageUrl": "https://img.traveltriangle.com/blog/wp-content/uploads/2019/02/christ-the-redeemer-cover-img.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Great Wall of China",
+      "location": "China",
+      "imageUrl": "https://assets.traveltriangle.com/blog/wp-content/uploads/2019/03/About-The-Great-Wall-of-China.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Colosseum, Rome",
+      "location": "Rome",
+      "imageUrl": "https://assets.traveltriangle.com/blog/wp-content/uploads/2017/05/Colosseum-Rome.jpg"
+    },
+    {
+      "id": "ec59",
+      "name": "Machu Picchu",
+      "location": "Peru",
+      "imageUrl": "https://assets.traveltriangle.com/blog/wp-content/uploads/2017/05/MachuPicchu.jpg"
+    }
+  ]
+}
